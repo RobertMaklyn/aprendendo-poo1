@@ -33,3 +33,4 @@ class carne (Pizza):
     
 
 print(carne.ingredientes())
+print(carne.pedacos)
